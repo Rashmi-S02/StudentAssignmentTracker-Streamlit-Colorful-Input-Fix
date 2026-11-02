@@ -1,0 +1,6 @@
+backend/.env
+backend/node_modules/
+streamlit_app/.venv/
+**/__pycache__/
+*.pyc
+.streamlit/secrets.toml
